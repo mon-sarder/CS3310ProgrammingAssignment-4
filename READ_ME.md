@@ -161,6 +161,3 @@ Topological sorting is needed because:
 
 **Issue**: Wrong completion time
 - **Solution**: Make sure all final tasks (tasks with no successors) are identified correctly
-
-## Author
-CS3310 Programming Assignment #4 Solution
